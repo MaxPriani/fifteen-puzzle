@@ -1,6 +1,6 @@
 ## About the Project
 
-This project was developed for an introductory programming course at the **Faculty of Engineering, University of Buenos Aires (UBA)**, part of the **Software Engineering** program. The course covers fundamental concepts of C programming, including arrays, functions, pointers, memory management, and control structures.
+This project was developed for an introductory programming course at the **Faculty of Engineering, University of Buenos Aires (UBA)**, part of the **Software Engineering** degree. The course covers fundamental concepts of C programming, including arrays, functions, pointers, memory management, and control structures.
 
 The game itself is a simple implementation of the Fifteen puzzle, where the goal is to arrange the numbered tiles into a specific order by sliding them within a 4x4 grid. The user can interact with the game through keyboard inputs ('w', 'a', 's', 'd' for movement) and try to solve the puzzle within a limited number of moves.
 
