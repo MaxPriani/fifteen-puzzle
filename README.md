@@ -18,9 +18,3 @@ To run the game:
 1. Clone this repository to your local machine.
 2. Compile the C source files using a C compiler, or use the provided `CMakeLists.txt` for building with CMake.
 3. Run the compiled executable and enjoy the game!
-
-## Technologies Used
-
-- C programming language
-- Terminal-based user interface
-
