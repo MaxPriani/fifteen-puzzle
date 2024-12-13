@@ -28,6 +28,3 @@ To run the game:
 - C programming language
 - Terminal-based user interface
 
-## Acknowledgments
-
-- This project was created as part of an introductory programming course at the **Faculty of Engineering, University of Buenos Aires (UBA)**.
