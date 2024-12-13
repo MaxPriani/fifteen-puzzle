@@ -1,7 +1,3 @@
-# Fifteen Puzzle
-
-A basic implementation of the classic "Fifteen puzzle" game in C, playable in the terminal.
-
 ## About the Project
 
 This project was developed for an introductory programming course at the **Faculty of Engineering, University of Buenos Aires (UBA)**, part of the **Software Engineering** program. The course covers fundamental concepts of C programming, including arrays, functions, pointers, memory management, and control structures.
