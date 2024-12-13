@@ -1,0 +1,25 @@
+# Binaries
+build/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiling files
+*.o
+*.out
+*.a
+*.so
+*.d
+
+# IDE's temporary files
+*.vscode/
+
+# Log files
+*.log
+
+# Others
+*.DS_Store
+*.clang-format
