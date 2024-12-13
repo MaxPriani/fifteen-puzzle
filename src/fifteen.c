@@ -67,7 +67,7 @@ void user_movement(int board[ROW][COL], char input) {
     }
 }
 
-bool condition(char input) {
+bool is_valid_input(char input) {
     return (input == 'w' || input == 's' || input == 'a' || input == 'd');
 }
 
@@ -91,7 +91,7 @@ char get_valid_movement() {
     printf("Input: ");
     scanf(" %c", &input);
 
-    while (!condition(input) && input != 'q') {
+    while (!is_valid_input(input) && input != 'q') {
         printf("Invalid input, use {'w', 'a', 's', 'd'}\n");
         printf("Input: ");
         scanf(" %c", &input);
