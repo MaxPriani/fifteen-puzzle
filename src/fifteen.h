@@ -21,7 +21,7 @@ void create_board(int board[ROW][COL]);
 void empty_tile(int board[ROW][COL], int *empty_row, int *empty_col);
 void swap(int *a, int *b);
 void user_movement(int board[ROW][COL], char input);
-bool condition(char input);
+bool is_valid_input(char input);
 bool is_solved(int board[ROW][COL]);
 char get_valid_movement();
 void print_board(int board[ROW][COL]);
